@@ -1,0 +1,185 @@
+TRAIN LINE,FROM/TO STATION,TO/FROM STATION,TRAVEL TIME (MINS)
+Birmingham – Dorridge – Leamington Spa,Birmingham Snow Hill,Birmingham Moor Street,3
+Birmingham – Dorridge – Leamington Spa,Birmingham Moor Street,Bordesley,1
+Birmingham – Dorridge – Leamington Spa,Bordesley,Small Heath,2
+Birmingham – Dorridge – Leamington Spa,Small Heath,Tyseley,4
+Birmingham – Dorridge – Leamington Spa,Tyseley,Acocks Green,3
+Birmingham – Dorridge – Leamington Spa,Acocks Green,Olton,3
+Birmingham – Dorridge – Leamington Spa,Olton,Solihull,4
+Birmingham - Dorridge - Leamington Spa,Solihull,Widney Manor,3
+Birmingham – Dorridge – Leamington Spa,Widney Manor,Dorridge,5
+Birmingham – Dorridge – Leamington Spa,Dorridge,Stratford-upon-Avon Parkway,17
+Birmingham – Dorridge – Leamington Spa,Stratford-upon-Avon Parkway,Stratford-upon-Avon,3
+Birmingham – Dorridge – Leamington Spa,Dorridge,Lapworth,4
+Birmingham – Dorridge – Leamington Spa,Lapworth,Hatton,6
+Birmingham – Dorridge – Leamington Spa,Hatton,Warwick Parkway,5
+Birmingham – Dorridge – Leamington Spa,Warwick Parkway,Warwick,3
+Birmingham – Dorridge – Leamington Spa,Warwick,Leamington Spa,9
+Cross City Line,Lichfield Trent Valley,Lichfield City,4
+Cross City Line,Lichfield City,Shenstone,3
+Cross City Line,Shenstone,Blake Street,3
+Cross City Line,Blake Street,Butlers Lane,2
+Cross City Line,Butlers Lane,Four Oaks,3
+Cross City Line,Four Oaks,Sutton Coldfield,4
+Cross City Line,Sutton Coldfield,Wylde Green,2
+Cross City Line,Wylde Green,Chester Road,2
+Cross City Line,Chester Road,Erdington,3
+Cross City Line,Erdington,Gravelly Hill,2
+Cross City Line,Gravelly Hill,Aston,4
+Cross City Line,Aston,Duddeston,3
+Cross City Line,Duddeston,Birmingham New Street,7
+Cross City Line,Birmingham New Street,Five Ways,3
+Cross City Line,Five Ways,University,4
+Cross City Line,University,Selly Oak,3
+Cross City Line,Selly Oak,Bournville,2
+Cross City Line,Bournville,Kings Norton,3
+Cross City Line,Kings Norton,Northfield,3
+Cross City Line,Northfield,Longbridge,3
+Cross City Line,Longbridge,Barnt Green,7
+Cross City Line,Barnt Green,Alvechurch,4
+Cross City Line,Alvechurch,Redditch,7
+Birmingham – Rugby – Northampton – London,Birmingham New Street,Birmingham International ,11
+Birmingham – Rugby – Northampton – London,Birmingham International ,Coventry,20
+Birmingham – Rugby – Northampton – London,Coventry,Rugby,13
+Birmingham – Rugby – Northampton – London,Rugby,Long Buckby,9
+Birmingham – Rugby – Northampton – London,Long Buckby,Northampton,12
+Birmingham – Rugby – Northampton – London,Northampton,Wolverton,6
+Birmingham – Rugby – Northampton – London,Wolverton,Milton Keynes Central,12
+Birmingham – Rugby – Northampton – London,Milton Keynes Central,Bletchley,5
+Birmingham – Rugby – Northampton – London,Bletchley,Leighton Buzzard,7
+Birmingham – Rugby – Northampton – London,Leighton Buzzard,Berkhamsted,12
+Birmingham – Rugby – Northampton – London,Berkhamsted,Hemel Hempstead,5
+Birmingham – Rugby – Northampton – London,Hemel Hempstead,Watford Junction,8
+Birmingham – Rugby – Northampton – London,Watford Junction,London Euston,20
+Nuneaton – Coventry,Nuneaton ,Bermuda Park,4
+Nuneaton – Coventry,Bermuda Park,Bedworth,4
+Nuneaton – Coventry,Bedworth,Coventry Arena,6
+Nuneaton – Coventry,Coventry Arena,Coventry ,8
+Watford – St Albans Abbey,Watford Junction,Watford North,2
+Watford – St Albans Abbey,Watford North,Garston,3
+Watford – St Albans Abbey,Garston,Bricket Wood,3
+Watford – St Albans Abbey,Bricket Wood,How Wood,2
+Watford – St Albans Abbey,How Wood,Park Street,2
+Watford – St Albans Abbey,Park Street,St Albans Abbey,4
+Bletchley – Bedford,Bletchley,Fenny Stratford ,3
+Bletchley – Bedford,Fenny Stratford ,Bow Brickhill ,4
+Bletchley – Bedford,Bow Brickhill ,Woburn Sands ,4
+Bletchley – Bedford,Woburn Sands ,Aspley Guise ,3
+Bletchley – Bedford,Aspley Guise ,Ridgmont,4
+Bletchley – Bedford,Ridgmont,Lidlington ,4
+Bletchley – Bedford,Lidlington ,Millbrook ,3
+Bletchley – Bedford,Millbrook ,Stewartby ,3
+Bletchley – Bedford,Stewartby ,Kempston Hardwick ,4
+Bletchley – Bedford,Kempston Hardwick ,Bedford St Johns ,4
+Bletchley – Bedford,Bedford St Johns ,Bedford ,6
+Crewe – Stoke – Stafford – London,Crewe ,Alsager ,9
+Crewe – Stoke – Stafford – London,Alsager ,Kidsgrove ,4
+Crewe – Stoke – Stafford – London,Kidsgrove ,Stoke-on-Trent ,5
+Crewe – Stoke – Stafford – London,Stoke-on-Trent ,Stone ,8
+Crewe – Stoke – Stafford – London,Stone ,Stafford,12
+Crewe – Stoke – Stafford – London,Stafford,Rugeley Trent Valley ,3
+Crewe – Stoke – Stafford – London,Rugeley Trent Valley ,Lichfield Trent Valley,8
+Crewe – Stoke – Stafford – London,Lichfield Trent Valley,Tamworth ,7
+Crewe – Stoke – Stafford – London,Tamworth ,Polesworth ,8
+Crewe – Stoke – Stafford – London,Polesworth ,Atherstone ,7
+Crewe – Stoke – Stafford – London,Atherstone ,Nuneaton ,5
+Crewe – Stoke – Stafford – London,Nuneaton ,Rugby,22
+Crewe – Stoke – Stafford – London,Rugby,Northampton,21
+Crewe – Stoke – Stafford – London,Northampton,Milton Keynes Central ,23
+Crewe – Stoke – Stafford – London,Milton Keynes Central ,Watford Junction ,30
+Crewe – Stoke – Stafford – London,Watford Junction ,London Euston ,19
+Worcester – Birmingham,Worcester Foregate Street,Worcester Shrub Hill ,4
+Worcester – Birmingham,Worcester Shrub Hill ,Droitwich Spa ,8
+Worcester – Birmingham,Droitwich Spa ,Hartlebury ,7
+Worcester – Birmingham,Hartlebury ,Kidderminster ,6
+Worcester – Birmingham,Kidderminster ,Blakedown ,4
+Worcester – Birmingham,Blakedown ,Hagley ,4
+Worcester – Birmingham,Hagley ,Stourbridge Junction,4
+Worcester – Birmingham,Stourbridge Junction,Lye ,4
+Worcester – Birmingham,Lye ,Cradley Heath ,3
+Worcester – Birmingham,Cradley Heath ,Old Hill ,3
+Worcester – Birmingham,Old Hill ,Rowley Regis ,4
+Worcester – Birmingham,Rowley Regis ,Langley Green ,3
+Worcester – Birmingham,Langley Green ,Smethwick Galton Bridge,3
+Worcester – Birmingham,Smethwick Galton Bridge,The Hawthorns ,2
+Worcester – Birmingham,The Hawthorns ,Jewellery Quarter ,4
+Worcester – Birmingham,Jewellery Quarter ,Birmingham Snow Hill,4
+Worcester – Birmingham,Birmingham Snow Hill,Birmingham Moor Street,5
+Worcester – Birmingham,Birmingham Moor Street,Solihull ,6
+Worcester – Birmingham,Solihull ,Dorridge ,9
+Worcester – Birmingham,Birmingham Moor Street,Whitlocks End ,21
+Worcester – Birmingham,Whitlocks End ,Stratford-upon-Avon ,33
+Smethwick Galton Bridge Connections,Liverpool Lime Street,Liverpool South Parkway,22
+Smethwick Galton Bridge Connections,Liverpool South Parkway,Crewe ,33
+Smethwick Galton Bridge Connections,Crewe ,Shrewsbury ,58
+Smethwick Galton Bridge Connections,Shrewsbury ,Telford Central ,20
+Smethwick Galton Bridge Connections,Telford Central ,Wolverhampton ,18
+Smethwick Galton Bridge Connections,Wolverhampton ,Smethwick Galton Bridge,11
+Smethwick Galton Bridge Connections,Smethwick Galton Bridge,Birmingham New Street,7
+Smethwick Galton Bridge Connections,Birmingham New Street,Birmingham International,20
+Birmingham – Stratford-upon-Avon,Worcester Foregate Street,Kidderminster ,19
+Birmingham – Stratford-upon-Avon,Kidderminster ,Stourbridge Junction ,12
+Birmingham – Stratford-upon-Avon,Stourbridge Junction ,Birmingham Snow Hill,29
+Birmingham – Stratford-upon-Avon,Birmingham Snow Hill,Birmingham Moor Street,3
+Birmingham – Stratford-upon-Avon,Birmingham Moor Street,Small Heath ,3
+Birmingham – Stratford-upon-Avon,Small Heath ,Tyseley ,4
+Birmingham – Stratford-upon-Avon,Tyseley ,Spring Road ,2
+Birmingham – Stratford-upon-Avon,Spring Road ,Hall Green ,3
+Birmingham – Stratford-upon-Avon,Hall Green ,Yardley Wood ,2
+Birmingham – Stratford-upon-Avon,Yardley Wood ,Shirley ,4
+Birmingham – Stratford-upon-Avon,Shirley ,Whitlocks End ,2
+Birmingham – Stratford-upon-Avon,Whitlocks End ,Wythall ,3
+Birmingham – Stratford-upon-Avon,Wythall ,Earlswood ,2
+Birmingham – Stratford-upon-Avon,Earlswood ,The Lakes ,3
+Birmingham – Stratford-upon-Avon,The Lakes ,Wood End ,2
+Birmingham – Stratford-upon-Avon,Wood End ,Danzey ,3
+Birmingham – Stratford-upon-Avon,Danzey ,Henley-in-Arden ,5
+Birmingham – Stratford-upon-Avon,Henley-in-Arden ,Wootton Wawen ,3
+Birmingham – Stratford-upon-Avon,Wootton Wawen ,Wilmcote ,6
+Birmingham – Stratford-upon-Avon,Wilmcote ,Stratford-upon-Avon Parkway,3
+Birmingham – Stratford-upon-Avon,Stratford-upon-Avon Parkway,Stratford-upon-Avon ,3
+Bimingham – Wolverhampton – Telford – Shrewsbury,Birmingham International ,Birmingham New Street,16
+Bimingham – Wolverhampton – Telford – Shrewsbury,Birmingham New Street,Smethwick Galton Bridge,7
+Bimingham – Wolverhampton – Telford – Shrewsbury,Birmingham New Street,Sandwell & Dudley ,8
+Bimingham – Wolverhampton – Telford – Shrewsbury,Sandwell & Dudley ,Wolverhampton ,12
+Bimingham – Wolverhampton – Telford – Shrewsbury,Wolverhampton ,Bilbrook ,6
+Bimingham – Wolverhampton – Telford – Shrewsbury,Bilbrook ,Codsall ,3
+Bimingham – Wolverhampton – Telford – Shrewsbury,Codsall ,Albrighton ,4
+Bimingham – Wolverhampton – Telford – Shrewsbury,Albrighton ,Cosford ,3
+Bimingham – Wolverhampton – Telford – Shrewsbury,Cosford ,Shifnal ,5
+Bimingham – Wolverhampton – Telford – Shrewsbury,Shifnal ,Telford Central ,6
+Bimingham – Wolverhampton – Telford – Shrewsbury,Telford Central ,Oakengates ,2
+Bimingham – Wolverhampton – Telford – Shrewsbury,Oakengates ,Wellington ,6
+Bimingham – Wolverhampton – Telford – Shrewsbury,Wellington ,Shrewsbury ,14
+Birmingham – Worcester – Hereford,Birmingham Moor Street ,Birmingham Snow Hill ,4
+Birmingham – Worcester – Hereford,Birmingham Snow Hill ,Stourbridge Junction ,26
+Birmingham – Worcester – Hereford,Birmingham New Street,University ,6
+Birmingham – Worcester – Hereford,University ,Barnt Green,10
+Birmingham – Worcester – Hereford,Barnt Green,Bromsgrove ,5
+Birmingham – Worcester – Hereford,Bromsgrove ,Droitwich Spa ,10
+Birmingham – Worcester – Hereford,Stourbridge Junction ,Hagley ,3
+Birmingham – Worcester – Hereford,Hagley ,Kidderminster ,6
+Birmingham – Worcester – Hereford,Kidderminster ,Hartlebury ,5
+Birmingham – Worcester – Hereford,Hartlebury ,Droitwich Spa ,8
+Birmingham – Worcester – Hereford,Droitwich Spa ,Worcester Shrub Hill,8
+Birmingham – Worcester – Hereford,Worcester Shrub Hill,Worcester Foregate Street,3
+Birmingham – Worcester – Hereford,Worcester Foregate Street,Malvern Link ,9
+Birmingham – Worcester – Hereford,Malvern Link ,Great Malvern ,3
+Birmingham – Worcester – Hereford,Great Malvern ,Colwall ,5
+Birmingham – Worcester – Hereford,Colwall ,Ledbury ,9
+Birmingham – Worcester – Hereford,Ledbury ,Hereford ,20
+Birmingham – Walsall – Rugeley,Birmgham New Street,Duddeston,5
+Birmingham – Walsall – Rugeley,Duddeston,Aston,2
+Birmingham – Walsall – Rugeley,Aston,Witton,3
+Birmingham – Walsall – Rugeley,Witton,Perry Barr,2
+Birmingham – Walsall – Rugeley,Perry Barr,Hamstead,3
+Birmingham – Walsall – Rugeley,Hamstead,Tame Bridge Parkway,4
+Birmingham – Walsall – Rugeley,Tame Bridge Parkway,Bescot Stadium,2
+Birmingham – Walsall – Rugeley,Bescot Stadium,Walsall,4
+Birmingham – Walsall – Rugeley,Walsall,Bloxwich,6
+Birmingham – Walsall – Rugeley,Bloxwich,Bloxwich North,2
+Birmingham – Walsall – Rugeley,Bloxwich North,Landywood,3
+Birmingham – Walsall – Rugeley,Landywood,Cannock,4
+Birmingham – Walsall – Rugeley,Cannock,Hednesford,4
+Birmingham – Walsall – Rugeley,Hednesford,Rugeley Town,6
+Birmingham – Walsall – Rugeley,Rugeley Town,Rugeley Trent Valley,4
