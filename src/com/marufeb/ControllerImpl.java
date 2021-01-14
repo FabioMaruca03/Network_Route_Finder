@@ -91,7 +91,8 @@ public class ControllerImpl implements Controller{
      */
     public ArrayList<Line> findEndPoints(Line line) {
         final ArrayList<Line> start = findStartPoint(line);
-        final ArrayList<Line> lines = start.stream().flatMap(it -> traverseRight(it, 0).stream()).distinct().collect(Collectors.toCollection(ArrayList::new));
+        final ArrayList<Line> lines = start.stream().flatMap(it -> traverseRight(it, 0).stream())
+                .distinct().collect(Collectors.toCollection(ArrayList::new));
         this.lines.forEach(it->it.visited = false);
         return lines;
     }
@@ -114,7 +115,8 @@ public class ControllerImpl implements Controller{
             return res;
         }
         int finalDepth = depth;
-        return start.right.stream().flatMap(it->traverseRight(it, finalDepth).stream()).collect(Collectors.toCollection(ArrayList::new));
+        return start.right.stream().flatMap(it->traverseRight(it, finalDepth).stream())
+                .collect(Collectors.toCollection(ArrayList::new));
     }
 
     /**
@@ -170,7 +172,9 @@ public class ControllerImpl implements Controller{
         int finalDepth = depth;
         final ArrayList<Line> collect = new ArrayList<>();
         collect.add(start);
-        collect.addAll(start.right.stream().map(it -> findPath(it, stop, finalDepth)).filter(it -> !it.isEmpty() && !it.contains(Line.ERROR)).flatMap(Collection::stream).collect(Collectors.toCollection(ArrayList::new)));
+        collect.addAll(start.right.stream().map(it -> findPath(it, stop, finalDepth)).
+                filter(it -> !it.isEmpty() && !it.contains(Line.ERROR)).flatMap(Collection::stream)
+                .collect(Collectors.toCollection(ArrayList::new)));
         return collect;
     }
 
@@ -188,7 +192,8 @@ public class ControllerImpl implements Controller{
             objects.add(line);
             return objects;
         }
-        return line.left.stream().flatMap(it->findStartPoint(line).stream()).distinct().collect(Collectors.toCollection(ArrayList::new));
+        return line.left.stream().flatMap(it->findStartPoint(line).stream()).distinct()
+                .collect(Collectors.toCollection(ArrayList::new));
     }
 
 
@@ -218,18 +223,6 @@ public class ControllerImpl implements Controller{
             this.to = to;
             this.minutes = minutes; // The graph weight
         }
-
-        public String stations() {
-            return (from!=null?from + " & ":"") + (to!=null?to:"");
-        }
-
-//        @Override
-//        public String toString() {
-//            final StringBuilder builder = new StringBuilder(name + "\n");
-//            for (String name : name.split(" - ")) {
-//
-//            }
-//        }
     }
 
     @Override
